@@ -10,7 +10,7 @@ def create_connection():
         con = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="password",
+            password="root",
             database="rental_cars"
         )
         if con.is_connected():
