@@ -9,3 +9,8 @@ The user interface is developed using Streamlit framework.
 ![Screenshot 2024-07-19 173116](https://github.com/user-attachments/assets/271061c5-db10-42a2-acf7-707dff37314a)
 ![Screenshot 2024-07-19 173057](https://github.com/user-attachments/assets/a1ed42af-7c37-4fe5-9569-5cfe3e4810c4)
 
+# LOGIN PAGE
+[LOGIN](https://github.com/SharathxD/Car-rental-system/blob/main/assets/login.png)
+
+# ui
+[UI](https://github.com/SharathxD/Car-rental-system/blob/main/assets/UI.png)
